@@ -1,1 +1,8 @@
-# barberShop_GoBootcamp
+# GoBarber
+ ### Backend
+  * NodeJS
+  * Express
+  * typeORM
+  * Postgres
+ ### Frontend
+  * WIP
